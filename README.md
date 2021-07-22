@@ -15,5 +15,5 @@ ls -la ./app
 Executar imagem.
 
 ```docker
-docker run kleitonutida/desafiogo:latest
+docker run --rm kleitonutida/desafiogo:latest
 ```
