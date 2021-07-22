@@ -12,14 +12,8 @@ Para rodar a aplicação através do executável gerado.
 ls -la ./app
 ```
 
-Gerar a imagem.
-
-```docker
-docker build -t <user-repository>/desafiogo:latest .
-```
-
 Executar a aplicação através do imagem gerada.
 
 ```docker
-docker run 
+docker run kleitonutida/desafiogo:latest
 ```
