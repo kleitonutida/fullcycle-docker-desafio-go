@@ -12,7 +12,7 @@ Para rodar a aplicação através do executável gerado.
 ls -la ./app
 ```
 
-Executar a aplicação através do imagem gerada.
+Executar imagem.
 
 ```docker
 docker run kleitonutida/desafiogo:latest
